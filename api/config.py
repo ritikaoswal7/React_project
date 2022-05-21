@@ -1,0 +1,3 @@
+SECRET_KEY='a546bf48f6db6509aac90202'
+SQLALCHEMY_DATABASE_URI="postgresql://postgres:postgres@localhost:5432/users"
+SQLALCHEMY_TRACK_MODIFICATIONS=False
